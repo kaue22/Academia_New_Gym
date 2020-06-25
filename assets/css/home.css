@@ -797,6 +797,7 @@ Our Classes
 
 #our-classes {
     margin-bottom: 10px;
+    background-color: #87cefa;
 }
 
 #tabs ul {
@@ -890,11 +891,13 @@ Our Classes
 }
 
 .tabs-content p {
-    font-size: 14px;
+    font-size: 22px;
     color: #7a7a7a;
     margin-bottom: 28px;
 }
+.paragrafo{
 
+}
 
 /* 
 ---------------------------------------------
@@ -1192,8 +1195,14 @@ preloader
     background: #fff;
     border-radius: 50%;
 }
-
-
+.treino{
+    display: flex;
+   font-family: 'Pangolin', cursive; 
+}
+.aulas{
+   font-size:130px;
+   font-family: 'Pangolin', cursive; 
+}
 
 
 /* 
